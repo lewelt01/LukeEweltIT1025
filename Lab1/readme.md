@@ -1,1 +1,14 @@
+### Executive Summary
+Lab 1's main purpose is to introduce you to IT1025 and help you learn how to navigate and use GitHub. The class is designed for students looking for careers in the IT field and introduces computer, networking, and programming concepts. In doing this lab, you will first set up a GitHub account and learn how to create a lab folder and readme.md file. Then you will learn how to take a screen capture and insert it into your GitHub folder. Finally, you will read Chapter 1 and practice editing and applying markdown langauge to your GitHub files. IT1025 and GitHub will both help you learn new skills for computer language that will be essential in the workplace.
 
+### Information Systems Components
+A major information systems component I use everyday is the Internet. On the internet, there is a vast, seemingly endless array of information. If you want to learn or find out about something, you can look it up on the internet, and it will be there in the search results. I use the internet everyday for information on things I enjoy, for health reasons, to learn about history, to do my online classes, among many other things. The software involved in the Internet are the search engines some examples being Google and Mozilla Firefox, and the people involved in the internet are the ones who run the companies as well as those who contribute by adding new articles and news to it everyday.
+
+### Client Server Architecture
+The definition for Client Sever Architecture is "a computing model in which the server hosts, delivers, and manages most of the resources and services to be consumed by the client." GitHub is a major example of one of these. It provides hosting for software development and adds many of its own features. By using GitHub, you and others can work on projects together from anywhere.
+
+### Cloud Computing
+GitHub is considered Cloud Computing because as Cloud Computing does, Github gives users access to data and applications. GitHub is available to many users over the internet, and works with any device. Besides GitHub, other Cloud Computing environments I use are Gmail and Facebook.
+
+### Conclusion
+When I first started this lab, I will admit that I was very confused. Setting up the GitHub account took some time for me to figure out at first, but after going through the steps I was able to get the hang of it. While I had no issues with the screen capture, I would say the most difficult part was figuring out how to make the heading for this part of the lab. As time went on, I felt I was getting the hang of it and that I learned a lot. There is much more that I still need to learn, and in finishing this lab, I'm already prepared for the next challenge. The world of computer coding and programming is a very complicated one, and I guess I learned that a little when making the headings for this. Overall, it was a very fun and insightful lab and I can already feel myself improving.
