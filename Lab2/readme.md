@@ -25,6 +25,9 @@ IEEE is the world's largest technical professional society and is an association
 Decimal numbers represent any number using 10 digits from 0-9, binary numbers represent any numbers using 2 digits from 0-1, and hexadecimal numbers represent any number using 10 digits and 6 characters, being 0-9 and A-F.
 
 ##### Hexadecimal Color Representation 
+In a RGB color space, hex #ab00ff is composed of 67.1% red, 0% green and 100% blue. Whereas in a CMYK color space, it is composed of 32.9% cyan, 100% magenta, 0% yellow and 0% black. It has a hue angle of 280.2 degrees, a saturation of 100% and a lightness of 50%. #ab00ff color hex could be obtained by blending #ff00ff with #5700ff. Closest websafe color is: #9900ff.
+
+I do not believe that this color would be problematic with web accessibility. The minimum standard for regular sized text is a contrast ratio of 4.5:1. The precise contrast of #ab00ff is 3.34, which passes AA for large text. It is recommended by W3C to start at 18pt regular weight or 14pt bold text, and #ab00ff meets this recommendation.
 
 ### Conclusion
 
