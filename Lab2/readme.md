@@ -1,4 +1,5 @@
 ### Executive Summary
+In this lab, we had to define and explain various hardware components as well as their purposes. Starting off in the hardware section, we first learn about the different types of hard drives and memory for computers. We learn about the control unit and ALU inside computers, as well as how the CPU, input, and output work. In order to understand binary code, you must learn decimal, binary, and hexadecimal numbers and how to solve for and convert them. Last but not least, we learn about hexademical color representation, and which colors would or wouldn't be problematic with web accessibility. 
 
 ### Hardware
 ##### Hard Drives and Memory
@@ -30,4 +31,4 @@ In a RGB color space, hex #ab00ff is composed of 67.1% red, 0% green and 100% bl
 I do not believe that this color would be problematic with web accessibility. The minimum standard for regular sized text is a contrast ratio of 4.5:1. The precise contrast of #ab00ff is 3.34, which passes AA for large text. It is recommended by W3C to start at 18pt regular weight or 14pt bold text, and #ab00ff meets this recommendation.
 
 ### Conclusion
-
+I will definitely say that this lab felt more time-consuming than the previous one. It was worth doing because I learned many new things I wasn't aware of before. I learned how to differentiate between different types of hard drives, as well as how keys are transferred onto a computer with binary code. I learned the difference between the three types of numbers as well as how to convert them to each other, skills which will greatly help me in this field. I wasn't previously aware that different colors cause web accessibility problems with colorblind people, but after reading about it, it made a lot of sense and was a very interesting fact. I'm always interested in learning more about how computers work, and this lab helped teach me a lot. I already want to learn more about how computers run and work given everything I just learned and practiced in this lab.
