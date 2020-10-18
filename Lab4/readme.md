@@ -23,4 +23,7 @@ Lossless image compression is when all the data from the original file is preser
 ##### File Formats
 JPGs are compress image data by reducing sections of images to blocks of pixels, and as soon as they are saved they are permanent and cannot be edited any further. A GIF is an older filetype like a JPG, and is more associated to the internet instead of photography. PNGs are for internet graphics, and supports transparency in browsers with an elegance that GIF does not possess. Initially developed as an alternative to GIF, it supports 8-bit color like GIF, as well as 24-bit color RGB like JPG.
 
+##### File Properties
+
+
 ### Conclusion
