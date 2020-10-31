@@ -37,4 +37,31 @@ For my design, I used the infrastructure topology. In my design, The modem is co
 
 When it comes to cybersecurity, the NSA collects and processes foreign signals, helps to understand them, and shares them with U.S. officials and war fighters so they can take action to keep our nation secure.
 
+### Cybersecurity and Encryption
+
+##### Information Systems Security
+
+a. Being a part of the Amazon.com online chat, confidentitality would mean restricting access to those allowed to see the chat, and nobody else is allowed to learn the contents of the messages and what is being discussed. Integrity would involve having to always tell the truth in the chats and make sure the information represents its intended meaning. Availability would mean having to ensure that the information can be accessed and modified by only people authorized to do so in an appropriate timeframe.
+
+b. Three Daily tasks requiring authentication: (1) Something they know, (2) something they have, and (3) something they are. They could be converted to multi-factor identification by combining two or more of the factors listed, making it much more difficult for someone to misrepresent themselves.
+
+c. An Access Control List (ACL) identifies a list of users who have the capability to take specific actions with an information resource such as data files. Their advantage is that they are simple to understand and maintain, but their disadvantage is that each information resource is managed separately, so if a security administrator wanted to add or remove a user to a large set of information resources, it would be quite difficult. Not to mention, they become harder to maintain as the number of users and resources increases. A Role-Based Access Control (RABC) assigns users to roles and then those roles are assigned the access, allowing administrators to manage users and roles separately, simplifying administration and improving security.
+
+d. It starts out with a plaintext message. This message is encrypted with a public key, and the ciphered text is transmitted through the communication channel and received by someone who then uses their private key to decrypt the message and read the plain text.
+
+e. Public Key Cryptography is needed in order to tighten security on something and keep everything secure.
+
+##### Cryptography
+
+b. For my message, I wrote "pineapple", and locked it at the number 15, turning the word into "dwbsoddzs." This encryption turned each letter of the word 14 spots to the right.
+
+c. The message I wrote was "I am inevitable," and my frequency fingerprint appeared to be very low. This would not be different for different languages.
+
+d. A Polyalphabetic cipher is a cipher that uses several different alphabets and disguises your fingerprint.
+
+e. The message I wrote was "God first" and the shift word was "Jesus." Decrypted, the message said "wjk kphna," and encrypted the message said "qtw abbxm."
+
+### Brute-Force
+Brute-Force is an attack that tries every encryption key for a cipher.
+
 ### Conclusion
