@@ -25,6 +25,8 @@ The benefit of a router over hubs and switches is that a router is used to conne
 
 ### Network Topologies
 
+In a Topology, the single point of failure would be when if the central hub or switch failed, then all the computers would be affected and the entire network would go down. The topologies that experience this issue are star topologies and ring topologies.
 
+The infrastructure topology uses a combination of wired and wireless devices, while the wireless mesh topology has all of its devices wirelessly interconnected. I believe the infrastructure topology is better because wireless mesh topologies require extra cabling and extra time running through the building, making it more expensive and more time-consuming.
 
 ### Conclusion
