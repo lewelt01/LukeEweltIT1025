@@ -62,6 +62,6 @@ d. A Polyalphabetic cipher is a cipher that uses several different alphabets and
 e. The message I wrote was "God first" and the shift word was "Jesus." Decrypted, the message said "wjk kphna," and encrypted the message said "qtw abbxm."
 
 ### Brute-Force
-Brute-Force is an attack that tries every encryption key for a cipher.
+A cryptanalyst guesses every key, decrypts the ciphertext with that key, looks at the output, and then moves on to the next key if they didn’t find the secret message. Because the brute-force technique is so effective against the Caesar cipher, using the Caesar cipher is greatly discouraged when encrypting secret information. Kerckhoff's Principle says that a cipher should still be secure even if everyone knows how the cipher works and someone else has the ciphertext.
 
 ### Conclusion
