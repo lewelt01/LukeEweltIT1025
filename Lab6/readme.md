@@ -28,4 +28,9 @@ b. One risk described is cookies, files placed on your system to store data for 
 
 ### Internet Programming
 
+##### World Wide Web Consortium
+Tim Berners-Lee is the inventor of the world wide web, and he created the W3C to develop interoperable technologies to lead the Web to its full potential.
+
+The standard I will discuss is Web Design and Applications. Web Designs and Applications is important because it involves the standards for building and Rendering Web pages, which includes HTML, CSS, SVG, device APIs, and other technologies for Web Applications.
+
 ### Conclusion
