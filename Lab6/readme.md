@@ -33,4 +33,10 @@ Tim Berners-Lee is the inventor of the world wide web, and he created the W3C to
 
 The standard I will discuss is Web Design and Applications. Web Designs and Applications is important because it involves the standards for building and Rendering Web pages, which includes HTML, CSS, SVG, device APIs, and other technologies for Web Applications.
 
+##### HTML5 and CSS
+HTML5 is used for structuring and presenting content on the World Wide Web. CSS is used to format the layout of a webpage. For my webpage, I mainly relied on the tutorials which I would say greatly benefitted me and helped me through how to properly make it. It was confusing at first, but I managed to get the hang of it after reading what the different codes meant and practicing with the tutorials.
+
+##### HTML and XML
+HTML is the standard markup language for creating Web pages, while XML is a software- and hardware-independent tool for storing and transporting data. XML was designed to carry data with focus on what data is, while HTML was designed to display data with focus on how data looks. Unlike HTML tags, XML tags are not predefined.
+
 ### Conclusion
