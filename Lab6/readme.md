@@ -1,4 +1,5 @@
 ### Executive Summary
+The first part of this lab focuses on Internet Architecture. First we learn the definition of an IP address as well as the client/server model. The TCP/IP section teaches that there are different layers containing different applications running on the computer. We then learn about HTTP, which protects data, and the importance of securing your browser and the risks associated if you don't. The second part of this lab focuses on Internet Programming. We learn about Tim Berners-lee, the inventer of the World Wide Web, and we get to create our own webpage based on a subject of our choosing. The third and final part of the lab focuses on URLs and File Paths. First we have to define and match terms pertaining to a URL. After making an images folder and finding an image, we have to insert an image into our webpage. This lab will greatly increase our knowledge and understanding of internet architecture and programming.
 
 ### Internet Architecture
 
@@ -53,3 +54,4 @@ Parameters: a string of characters after the path that begin with a question mar
 Anchor: Tells your browser to scroll to or load a specific part of the page; specific location on a page.
 
 ### Conclusion
+Overall, this was a very interesting and knowledgeable lab. While learning about IP addresses and HTTP was fun, the most fun part was definitely creating the webpage. It was confusing at first, especially with the coding, but I managed to get the hang of it and create it correctly. It was also very fun creating the different themes for the page, and I especially liked adding the image to it. Besides the webpage, I also enjoyed learning about the creator of the world wide web, and found him and its history to be very interesting. Like every lab, this lab taught me a lot about the interent and coding, and I am excited to learn more new things in the next labs I do.
