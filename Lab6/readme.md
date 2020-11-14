@@ -40,6 +40,16 @@ HTML5 is used for structuring and presenting content on the World Wide Web. CSS 
 HTML is the standard markup language for creating Web pages, while XML is a software- and hardware-independent tool for storing and transporting data. XML was designed to carry data with focus on what data is, while HTML was designed to display data with focus on how data looks. Unlike HTML tags, XML tags are not predefined.
 
 ### Components of a URL
+Scheme: https; tells the browser what type of address it is so the browser connects to it correctly.
 
+Domain: Each segment of the domain name separated by a period; no file path provided
+
+Top Level Domain: The domain on the right; .edu
+
+Default Page: The page that helps you navigate other pages; www.amazon.com
+
+Parameters: a string of characters after the path that begin with a question mark; result of search
+
+Anchor: Tells your browser to scroll to or load a specific part of the page; specific location on a page.
 
 ### Conclusion
