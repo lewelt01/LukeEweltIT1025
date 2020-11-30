@@ -14,4 +14,10 @@ b. The purpose of a constructor is to initialize data.
 
 c. A class is a blueprint created by a programmer for an object, while an object is an instance of a class. To instantiate an object from a class is to define said object.
 
+### Object Oriented Concepts
+
+i. When going through a drive-thru, an example of a class would be the dollar menu, and the objects created from the class would be the food in the dollar menu.
+
+ii. object: Sammy; Sammy is the object created in the program. Class: Shark; Shark is the name of the class. Abstraction: Definition of a shark; Abstraction defines all the components. Inheritance: A specific type of shark: An inheritance is basing a class or object upon another object or class while retaining similar implementation. Encapsulation: swim(self); Encapsulation is the bundling of data.
+
 ### Conclusion
