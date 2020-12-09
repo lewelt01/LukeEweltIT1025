@@ -15,5 +15,8 @@ i.  The four Vs of big data are the following: 1. Volume: the amount of data and
 ii. Types of technology that have driven the increased need for big data include cricket websites, retail and e-commerce industries, and file systems.
 
 ### Structured Query Language 
+a. Relational Database Management System (RDMS) is the basis for SQL, which is a standard language for accessing and manipulating databases.
+
+b. The two tables I've picked are Order Details and Products. The Primary key for both of them is "ProductID," and the foreign key is "OrderID." The relationship between the two tables is that the order details describe the products in question, as well as its quantity and prices.
 
 ### Conclusion
